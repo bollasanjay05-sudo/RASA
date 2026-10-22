@@ -1,17 +1,22 @@
-# RASA — Real Photography + Header Wordmark Update
+# RASA — Black & Gold / South Indian Doodle Edition
 
-## What changed
-- Restored and emphasized **RASA** beside the Ganesha mark in the header, with a small **INDIAN KITCHEN & BAR** subtitle, including on mobile.
-- Replaced the AI-generated Nataraja/brass image with a **verified real photograph** of a historic bronze statue, with visible author and license attribution. The old generated image file is removed.
-- Kept original gate photographs from your uploaded reference, gold entrance animation, starry logo reveal, black/gold palette, favicon set, sections, menu, gallery, enquiries and animated image borders.
-- Kept the previously requested removal of all ✺ symbols.
-- Refined photo color treatment: warmer, less exaggerated, more natural.
+This is the previous RASA real-photography website with the *background only* updated.
 
-## Install (GitHub Pages)
-**One file (easiest):** Rename `index-standalone.html` to `index.html` and upload to the repository root. This embeds CSS/JS and local image assets, so you do not need separate JavaScript. External authentic images are loaded from Unsplash and Wikimedia Commons.
+## Updates
+- Adds a faint WhatsApp-style tile of hand-drawn South Indian motifs: sikku kolam/muggulu, temple ratham, kuthuvilakku, lotus flower, gopuram, kalash and jasmine.
+- Places the pattern behind hero, story, menu, kitchen, ambience, reservation and footer sections.
+- Adds separate corner kolam accents; no strong background objects cover text/photos.
+- Preserves gold Ganesha gates, reveal animation, header RASA text, favicon, menu filtering, image lightboxes and glowing borders.
+- No ✺ symbol is used.
 
-**Multiple files:** Upload `index.html`, `styles.css`, `script.js`, `favicon.ico`, `site.webmanifest` and entire `assets/` folder to the repository root.
+## Uploading to GitHub
 
-All menu dishes and generic interiors/chef photos are examples, **not photographs of RASA itself**. Replace with your own verified images before launching. The booking form is an enquiry form until you configure a WhatsApp number or email in `RASA_CONFIG`.
+**Simplest:** Use `index-standalone.html`, rename to `index.html`, then commit in the root of your GitHub repository. All CSS, JS, gate art, icons, and doodle SVGs are embedded in this single file. Google Fonts and demo photos still require internet.
 
-See `PHOTO-CREDITS.md` for the real sculpture photo credit and licensing.
+**Normal separate files:** Upload `index.html`, `styles.css`, `script.js`, `site.webmanifest`, `favicon.ico`, and the whole `assets` folder, keeping file paths unchanged.
+
+## Adjusting how noticeable the doodles are
+
+Open `styles.css` (or the `<style>` section inside the single file) and find `--rasa-doodles-opacity`. Values around `.09` to `.18` are deliberately soft; use a lower number for more restrained decoration. The line-art sources are `assets/rasa-doodle-pattern.svg` and `assets/rasa-kolam-corner.svg`.
+
+The imagery in the sample menu, ambience, and kitchen is illustrative, not documented photographs of RASA. Replace before launch. Configure actual booking contacts in script.js before accepting enquiries. Photo credits are in PHOTO-CREDITS.md.
