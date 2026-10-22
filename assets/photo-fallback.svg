@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="RASA decorative fallback image">
+ <defs><radialGradient id="g"><stop stop-color="#6e442c"/><stop offset="1" stop-color="#24150f"/></radialGradient><pattern id="p" width="65" height="65" patternUnits="userSpaceOnUse"><path d="M0 32.5Q32.5 -1 65 32.5Q32.5 66 0 32.5ZM32.5 0v65M0 32.5h65" fill="none" stroke="#d2a65e" stroke-width=".45" opacity=".25"/></pattern></defs>
+ <rect width="1000" height="760" fill="url(#g)"/><rect width="1000" height="760" fill="url(#p)"/>
+ <circle cx="500" cy="375" r="244" stroke="#cda35b" stroke-width="2" fill="none" opacity=".44"/>
+ <circle cx="500" cy="375" r="210" stroke="#cda35b" stroke-width="1" fill="none" opacity=".65"/>
+ <g fill="none" stroke="#d5b477" stroke-width="4" opacity=".8"><path d="M500 200c-55 90-120 110-150 175 50 70 90 90 150 170 60-80 100-100 150-170-30-65-95-85-150-175z"/><path d="M500 230c-32 50-66 100-80 145 14 45 48 95 80 145 32-50 66-100 80-145-14-45-48-95-80-145z"/></g>
+ <text x="500" y="393" fill="#eccb8e" text-anchor="middle" font-family="Georgia,serif" font-size="102" letter-spacing="18">RASA</text>
+ <text x="500" y="438" fill="#cda35b" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="8">INDIAN KITCHEN &amp; BAR</text>
+</svg>

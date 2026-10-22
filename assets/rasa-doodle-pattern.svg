@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" fill="none" stroke="#CBA05B" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+<!-- Repeating South Indian cultural doodles. Sparse layout, genuine linework rather than photorealistic imagery. -->
+<g transform="translate(145 134)">
+  <!-- Sikku kolam: interlaced loop around a five-by-five pulli grid -->
+  <g stroke-width="1.7" opacity=".88">
+    <path d="M0-76 C-47-76-76-47-76 0S-47 76 0 76 76 47 76 0 47-76 0-76Z"/>
+    <path d="M0-69C27-69 39-39 12-12C-12 12-39 12-55 0C-39-12-12-12 12 12C39 39 27 69 0 69C-27 69-39 39-12 12C12-12 39-12 55 0C39 12 12 12-12-12C-39-39-27-69 0-69Z"/>
+    <path d="M0-82Q12-56 0-40Q-12-56 0-82M82 0Q56 12 40 0Q56-12 82 0M0 82Q-12 56 0 40Q12 56 0 82M-82 0Q-56-12-40 0Q-56 12-82 0Z"/>
+    <path d="M-44-44L-27-27M44-44L27-27M-44 44L-27 27M44 44L27 27"/>
+  </g>
+  <g fill="#D9B478" stroke="none" opacity=".8"><circle cx="-14" cy="-28" r="1.7"/><circle cx="0" cy="-28" r="1.7"/><circle cx="14" cy="-28" r="1.7"/><circle cx="-28" cy="-14" r="1.7"/><circle cx="-14" cy="-14" r="1.7"/><circle cx="0" cy="-14" r="1.7"/><circle cx="14" cy="-14" r="1.7"/><circle cx="28" cy="-14" r="1.7"/><circle cx="-28" cy="0" r="1.7"/><circle cx="-14" cy="0" r="1.7"/><circle cx="0" cy="0" r="1.7"/><circle cx="14" cy="0" r="1.7"/><circle cx="28" cy="0" r="1.7"/><circle cx="-28" cy="14" r="1.7"/><circle cx="-14" cy="14" r="1.7"/><circle cx="0" cy="14" r="1.7"/><circle cx="14" cy="14" r="1.7"/><circle cx="28" cy="14" r="1.7"/><circle cx="-14" cy="28" r="1.7"/><circle cx="0" cy="28" r="1.7"/><circle cx="14" cy="28" r="1.7"/></g></g>
+<!-- Temple ratham: gabled pavilion, bell and large cart wheels -->
+<g transform="translate(708 156)" opacity=".83">
+<path d="M-68 69H69M-57 69V1H57V69M-72 1L0-61 72 1H-72Z"/>
+<path d="M-49-1L0-49 49-1M-35 69V10H35V69M-26 69V16H26V69M-43 10H43M-43 17H43M-39-5Q0-23 39-5"/>
+<path d="M-72 70Q0 85 72 70M-80 82H80M-71 82L-62 105H62L71 82M-35 105H35"/>
+<circle cx="-47" cy="112" r="18"/><circle cx="-47" cy="112" r="9"/>
+<circle cx="47" cy="112" r="18"/><circle cx="47" cy="112" r="9"/>
+<path d="M-59 112H-35M-47 100V124M35 112H59M47 100V124M-5-61L0-80 5-61M-8-82H8"/>
+<path d="M-15 53Q-22 28 0 18Q22 28 15 53M0 18V7M-45-10L-62 1M45-10L62 1"/>
+</g>
+<!-- South Indian brass kuthuvilakku / deepam -->
+<g transform="translate(326 454)" opacity=".84">
+<path d="M-44 70H44M-31 65H31L20 55H-20L-31 65ZM-15 55L-9-9H9L15 55M-11 7H11M-18-14H18M-33-16C-33-4-25 1 0-2C25 1 33-4 33-16H-33Z"/>
+<path d="M-31-16Q-21-33-4-24Q0-42 4-24Q21-33 31-16M-23-16L-20-28M23-16L20-28M0-31Q-15-49 0-72Q15-49 0-31Z"/>
+<path d="M-8-74Q-3-84 0-93Q4-83 8-74"/>
+<circle cx="0" cy="19" r="4"/><path d="M-21 40H21M-17 47H17"/>
+</g>
+<!-- Lotus flower -->
+<g transform="translate(534 453)" opacity=".9">
+<path d="M0 25C-25-7-23-27 0-55C23-27 25-7 0 25Z"/>
+<path d="M0 25C-34 15-50-14-41-43C-6-37 5-9 0 25ZM0 25C34 15 50-14 41-43C6-37-5-9 0 25Z"/>
+<path d="M0 29C-42 37-76 15-78-13C-42-21-9 3 0 29ZM0 29C42 37 76 15 78-13C42-21 9 3 0 29Z"/>
+<path d="M-90 41C-53 52 53 52 90 41M-74 52H74M0 29V69M-9 68H9"/>
+</g>
+<!-- Traditional kalash and mango leaves -->
+<g transform="translate(786 487)" opacity=".72">
+<path d="M-18-26C-35-12-38 13-21 34Q0 46 21 34C38 13 35-12 18-26H-18ZM-20-27H20M-23-32H23M-25 37H25"/>
+<path d="M0-31C-18-54-32-49-36-64C-16-63-1-50 0-31ZM0-31C18-54 32-49 36-64C16-63 1-50 0-31ZM0-31C-9-56-8-71 0-79C8-71 9-56 0-31Z"/>
+<path d="M-14-6Q0-15 14-6M-17 9Q0 0 17 9M-12 24Q0 17 12 24"/>
+</g>
+<!-- Temple tower / gopuram -->
+<g transform="translate(94 460)" opacity=".68">
+<path d="M-53 74H53M-47 63H47L39 33H-39L-47 63ZM-39 30H39L31 7H-31L-39 30ZM-31 4H31L24-17H-24L-31 4ZM-22-20H22L14-38H-14L-22-20ZM-13-41H13L0-58-13-41Z"/>
+<path d="M-25 63V43H25V63M-8 63V44H8V63M-28 17H28M-18-5H18M-8-28H8"/>
+<circle cx="-30" cy="46" r="3"/><circle cx="30" cy="46" r="3"/><circle cx="-15" cy="16" r="3"/><circle cx="15" cy="16" r="3"/>
+</g>
+<!-- Jasmine and paisley flourishes, deliberately sparse -->
+<g transform="translate(421 120)" opacity=".68">
+<path d="M-43 33Q-16-6 18-22Q56-42 75-64M-10 5Q-30-24-15-43Q8-25-10 5ZM25-26Q33-49 57-47Q55-23 25-26Z"/>
+<path d="M8-8C-3-29 9-50 23-40C42-37 35-15 22-12C34-9 31 11 15 12C1 11-1 1 8-8Z"/>
+<circle cx="17" cy="-20" r="5"/>
+</g>
+<g transform="translate(812 53)" opacity=".68"><path d="M-5 50C-32 25-23-13 5-34C-1-6 35 14 16 39C10 47 0 49-5 50Z"/><path d="M-5 50Q14 15 5-17M14 15Q29 2 40 8M6 32Q-7 8-20 11"/></g>
+<!-- Small outline of the RASA Ganesha symbol, as a respectful temple-idol detail -->
+<g transform="translate(555 253) scale(.30)" stroke-width="6.6" opacity=".57">
+<path d="M150 16c-17 15-28 32-27 51m27-51c17 15 28 32 27 51"/>
+<path d="M150 65c-31-7-52 3-67 22-27-20-53-7-60 18-10 32 11 64 36 66 14 2 26-7 32-18 11 23 22 37 43 46"/>
+<path d="M150 65c31-7 52 3 67 22 27-20 53-7 60 18-10 32-11 64-36 66-14 2-26-7-32-18-11 23-22 37-43 46"/>
+<path d="M150 107c3 30 7 65 6 97-1 29-9 47-28 56-20 10-46-1-44-22 2-16 20-25 34-16 8 5 9 16 3 21"/>
+<path d="M136 112l-12-4m40 4 12-4m-8 37 16 23"/>
+<circle cx="150" cy="83" r="6" fill="#CBA05B" stroke="none"/>
+</g>
+<!-- Tiny floral motifs -->
+<g opacity=".63"><circle cx="462" cy="303" r="4"/><path d="M462 286Q473 296 462 303Q451 296 462 286ZM479 303Q469 314 462 303Q469 292 479 303ZM462 320Q451 310 462 303Q473 310 462 320ZM445 303Q455 292 462 303Q455 314 445 303Z"/>
+<circle cx="196" cy="316" r="4"/><path d="M196 299Q207 309 196 316Q185 309 196 299ZM213 316Q203 327 196 316Q203 305 213 316ZM196 333Q185 323 196 316Q207 323 196 333ZM179 316Q189 305 196 316Q189 327 179 316Z"/></g>
+</svg>
